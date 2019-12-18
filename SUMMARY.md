@@ -5,7 +5,7 @@
 ## Общая информация <a id="main"></a>
 
 * [Untitled](main/untitled-1.md)
-* [Справочник документов](main/untitled.md)
+* [Справочник документов](main/documents.md)
 
 ## Институт
 
