@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Инструкция по работе с сайтом](README.md)
+* [Общие вопросы](README.md)
 
 ## Общая информация <a id="main"></a>
 

@@ -1,25 +1,14 @@
-# Инструкция по работе с сайтом
+# Общие вопросы
 
-## Getting Super Powers
+### Вход на сайт
 
-Becoming a super hero is a fairly straight forward process:
+Для входа на сайт перейдите на страницу авторизации `/user`
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% hint style="success" %}
+ Достаточно дополнить адрес в адресной строке браузера [http://art-education.vpsby.cyberlex404.com](http://art-education.vpsby.cyberlex404.com)/user
 {% endhint %}
 
-Once you're strong enough, save the world:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 
 
