@@ -2,6 +2,10 @@
 
 * [Общие вопросы](README.md)
 
+## Типы материалов
+
+* [Сотрудник \(worker\)](tipy-materialov/sotrudnik-worker.md)
+
 ## Общая информация <a id="main"></a>
 
 * [Справочник сотрудников](main/untitled-1.md)
@@ -15,8 +19,4 @@
 ## Электронная библиотека
 
 * [E-Документ](elektronnaya-biblioteka/node--e-document.md)
-
-## Типы материалов
-
-* [Сотрудник \(worker\)](tipy-materialov/sotrudnik-worker.md)
 
