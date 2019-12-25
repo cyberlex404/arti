@@ -16,3 +16,7 @@
 
 * [E-Документ](elektronnaya-biblioteka/node--e-document.md)
 
+## Типы материалов
+
+* [Сотрудник \(worker\)](tipy-materialov/sotrudnik-worker.md)
+
