@@ -2,9 +2,9 @@
 
 * [Общие вопросы](README.md)
 
-## Типы материалов
+## Типы материалов <a id="node"></a>
 
-* [Сотрудник \(worker\)](tipy-materialov/sotrudnik-worker.md)
+* [Сотрудник \(worker\)](node/worker.md)
 
 ## Общая информация <a id="main"></a>
 
